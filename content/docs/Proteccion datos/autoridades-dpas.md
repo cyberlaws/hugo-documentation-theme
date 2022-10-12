@@ -14,8 +14,4 @@ Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur
 
 Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
 
-    | País | Autoridad (DPA) | Sitio web | Contacto | Director/Head | Naturaleza |
-    |------|-----------------|-----------|----------|---------------|------------|
-    | asd  | agg             | dfg       | dfg      | dfg           | dfg        |
-    | sdf  | df              | sdf       | sdf      | sdf           | sdf        |
-    | sdf  | sdf             | sdf       | sdf      | sdf           | sdf        |
+{{< table path="countries.csv" header="true" caption="Table 1: My results" >}}
