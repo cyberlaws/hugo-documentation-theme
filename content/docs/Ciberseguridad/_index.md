@@ -3,10 +3,10 @@ linktitle: Ciberseguridad
 summary: Learn how to use Academic's docs layout for publishing online courses, software
   documentation, and tutorials.
 weight: "1"
-icon: book-reader
+icon: cop
 icon_pack: fas
 title: Ciberseguridad
-date: 2018-09-08T00:00:00+00:00
+date: 2018-09-08T00:00:00.000+00:00
 type: book
 
 ---
