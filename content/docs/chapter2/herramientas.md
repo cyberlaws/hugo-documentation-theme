@@ -1,10 +1,10 @@
 +++
 date = 2019-05-04T23:00:00Z
 draft = true
-linktitle = "Quiz"
+linktitle = "Herramientas"
 title = "Herramientas"
 type = "book"
-weight = 2
+weight = "6"
 
 +++
 A recommended reading list for the course.
