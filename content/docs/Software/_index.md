@@ -3,7 +3,7 @@ linktitle: PETs
 summary: Learn how to use Academic's docs layout for publishing online courses, software
   documentation, and tutorials.
 weight: "3"
-icon: book-reader
+icon: lock
 icon_pack: fas
 title: PETs
 date: 2018-09-08T00:00:00.000+00:00
