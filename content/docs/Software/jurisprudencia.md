@@ -1,9 +1,9 @@
 +++
 date = 2019-05-04T23:00:00Z
-linktitle = "Jurisprudencia"
-title = "Jurisprudencia"
+linktitle = "Navegadores"
+title = "Navegadores"
 type = "book"
-weight = "4"
+weight = "1"
 
 +++
 ## Goals
