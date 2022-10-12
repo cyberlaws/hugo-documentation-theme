@@ -1,8 +1,8 @@
 ---
-title: Historia
-linktitle: Historia
+title: ":blue_book: Historia"
+linktitle: ":blue_book: Historia"
 type: book
-date: 2019-05-05T00:00:00+01:00
+date: 2019-05-05T00:00:00.000+01:00
 weight: "1"
 
 ---
