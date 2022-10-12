@@ -1,10 +1,9 @@
 +++
 date = 2019-05-04T23:00:00Z
-draft = true
-linktitle = "Autentificación"
+linktitle = "Ad blocker"
 title = "Ad blocker"
 type = "book"
-weight = "8"
+weight = "9"
 
 +++
 ## Goals
