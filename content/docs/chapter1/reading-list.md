@@ -2,7 +2,7 @@
 title: Leyes mundiales
 linktitle: Leyes mundiales
 type: book
-date: 2019-05-05T00:00:00+00:00
+date: 2019-05-04T23:02:00+00:00
 weight: "2"
 
 ---
