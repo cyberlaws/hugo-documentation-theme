@@ -4,7 +4,7 @@ summary: Learn how to use Academic's docs layout for publishing online courses, 
   documentation, and tutorials.
 weight: "4"
 icon: coffee
-icon_pack: fas
+icon_pack: emoji
 title: Noticias
 date: 2018-09-08T00:00:00.000+00:00
 type: book
