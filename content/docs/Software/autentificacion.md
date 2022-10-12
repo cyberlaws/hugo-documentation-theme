@@ -1,10 +1,9 @@
 +++
 date = 2019-05-04T23:00:00Z
-draft = true
-linktitle = "Cifrado"
+linktitle = "Autentificación"
 title = "Autentificación"
 type = "book"
-weight = "7"
+weight = "8"
 
 +++
 ## Goals
