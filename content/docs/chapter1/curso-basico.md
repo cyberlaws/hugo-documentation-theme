@@ -1,7 +1,7 @@
 +++
-date = 2019-05-07T23:00:00Z
+date = 2019-05-05T23:00:00Z
 draft = true
-linktitle = "Quiz"
+linktitle = "Curso básico"
 title = "Curso básico"
 type = "book"
 weight = 3
