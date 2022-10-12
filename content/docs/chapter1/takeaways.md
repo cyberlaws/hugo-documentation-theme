@@ -2,7 +2,7 @@
 title: Jurisprudencia
 linktitle: Jurisprudencia
 type: book
-date: 2019-05-05T02:00:00+00:00
+date: 2019-05-04T23:04:00+00:00
 weight: "3"
 
 ---
