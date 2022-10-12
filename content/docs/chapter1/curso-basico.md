@@ -1,7 +1,7 @@
 +++
-date = 2019-05-05T23:00:00Z
-linktitle = "Curso básico"
-title = "Curso básico"
+date = 2019-05-05T00:00:00Z
+linktitle = "Aspectos básicos"
+title = "Aspectos básicos"
 type = "book"
 weight = 3
 
