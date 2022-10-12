@@ -1,6 +1,5 @@
 +++
 date = 2019-05-04T23:00:00Z
-draft = true
 linktitle = "Correo electrónico"
 title = "Correo electrónico"
 type = "book"
