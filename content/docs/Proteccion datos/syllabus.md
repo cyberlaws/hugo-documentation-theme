@@ -19,3 +19,38 @@ Por el otro lado, el derecho a la protección de datos personales ...
 Debido a los continuos avances tecnológicos y sociales, el derecho a la protección de datos personales ha conocido (y seguirá conociendo) de importantes desafíos jurídicos que exigen de su adaptación. 
 
 El advenimiento de las tecnologías de la información y comunicación (TICs), la masificación de las mismas y el empleo de nuevas técnicas, tales como el _big data_, la inteligencia artificial, la personalización de contenidos, el _tracking_ y la elaboración de perfiles han llevado a los legisladores de todo el mundo a estar en constante revisión de los distintos instrumentos y leyes de protección de datos personales.
+
+    <div class="container">
+      <div class="timeline">
+        <ul>
+          <li>
+            <div class="timeline-content">
+              <h3 class="date">20th may, 2010</h3>
+              <h1>Heading 1</h1>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab laudantium voluptatibus aut eos placeat laborum, quibusdam exercitationem labore.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-content">
+              <h3 class="date">20th may, 2010</h3>
+              <h1>Heading 2</h1>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab laudantium voluptatibus aut eos placeat laborum, quibusdam exercitationem labore.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-content">
+              <h3 class="date">20th may, 2010</h3>
+              <h1>Heading 3</h1>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab laudantium voluptatibus aut eos placeat laborum, quibusdam exercitationem labore.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-content">
+              <h3 class="date">20th may, 2010</h3>
+              <h1>Heading 4</h1>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab laudantium voluptatibus aut eos placeat laborum, quibusdam exercitationem labore.</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
