@@ -4,7 +4,7 @@ summary: Learn how to use Wowchemy's docs layout for publishing online courses, 
   documentation, and tutorials.
 weight: "1"
 icon: lock
-icon_pack: fab
+icon_pack: fas
 title: Datos Personales
 date: 2018-09-09T00:00:00.000+00:00
 type: book
