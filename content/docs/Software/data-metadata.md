@@ -1,10 +1,9 @@
 +++
 date = 2019-05-04T23:00:00Z
-draft = true
-linktitle = "DNS"
+linktitle = "Data/Metadata"
 title = "Data/Metadata"
 type = "book"
-weight = "13"
+weight = "14"
 
 +++
 ## Goals
