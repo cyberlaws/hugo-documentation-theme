@@ -1,7 +1,6 @@
 +++
-date = 2019-05-06T23:00:00Z
-draft = true
-linktitle = "Herramientas"
+date = 2019-05-07T23:00:00Z
+linktitle = "Quiz"
 title = "Quiz"
 type = "book"
 weight = 3
