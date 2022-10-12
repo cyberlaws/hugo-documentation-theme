@@ -1,10 +1,9 @@
 +++
 date = 2019-05-04T23:00:00Z
-draft = true
-linktitle = "Videoconferencia"
+linktitle = "Mensajería"
 title = "Mensajería"
 type = "book"
-weight = "10"
+weight = "11"
 
 +++
 ## Goals
