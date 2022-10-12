@@ -1,12 +1,12 @@
 ---
-linktitle: Ciberseguridad
+linktitle: Noticias
 summary: Learn how to use Academic's docs layout for publishing online courses, software
   documentation, and tutorials.
-weight: "1"
+weight: "4"
 icon: book-reader
 icon_pack: fas
-title: Ciberseguridad
-date: 2018-09-08T00:00:00+00:00
+title: Noticias
+date: 2018-09-08T00:00:00.000+00:00
 type: book
 
 ---
