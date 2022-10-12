@@ -8,7 +8,6 @@ icon_pack: fas
 title: Datos Personales
 date: 2018-09-09T00:00:00Z
 type: book
-draft: true
 
 ---
 ## Flexibility
