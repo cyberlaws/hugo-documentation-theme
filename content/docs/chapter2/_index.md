@@ -6,7 +6,7 @@ weight: "1"
 icon: book-reader
 icon_pack: fas
 title: Ciberseguridad
-date: 2018-09-09T00:00:00Z
+date: 2018-09-08T00:00:00+00:00
 type: book
 
 ---
