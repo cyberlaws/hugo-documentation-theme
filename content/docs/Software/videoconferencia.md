@@ -1,10 +1,9 @@
 +++
 date = 2019-05-04T23:00:00Z
-draft = true
-linktitle = "Ad blocker"
+linktitle = "Videoconferencia"
 title = "Videoconferencia"
 type = "book"
-weight = "9"
+weight = "10"
 
 +++
 ## Goals
