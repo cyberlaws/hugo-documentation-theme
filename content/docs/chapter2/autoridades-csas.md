@@ -1,10 +1,10 @@
 +++
 date = 2019-05-04T23:00:00Z
 draft = true
-linktitle = "Jurisprudencia"
+linktitle = "Autoridades (CSAs)"
 title = "Autoridades (CSAs)"
 type = "book"
-weight = "4"
+weight = "5"
 
 +++
 ## Goals
