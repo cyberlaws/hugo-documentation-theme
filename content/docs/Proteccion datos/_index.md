@@ -3,8 +3,8 @@ linktitle: Datos Personales
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software
   documentation, and tutorials.
 weight: "1"
-icon: lock
-icon_pack: fas
+icon: privacy
+icon_pack: custom
 title: Datos Personales
 date: 2018-09-09T00:00:00.000+00:00
 type: book
