@@ -3,7 +3,7 @@ date = 2019-05-04T23:00:00Z
 linktitle = "Quiz"
 title = "Quiz"
 type = "book"
-weight = 2
+weight = "7"
 
 +++
 A recommended reading list for the course.
