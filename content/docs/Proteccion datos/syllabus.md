@@ -16,6 +16,12 @@ Por el otro lado, el derecho a la protección de datos personales ...
 
 ## Un derecho en constante evolución
 
-Debido a los continuos avances tecnológicos y sociales, el derecho a la protección de datos personales ha conocido (y seguirá conociendo) de importantes desafíos jurídicos que exigen de su adaptación. 
+Debido a los continuos avances tecnológicos y sociales, el derecho a la protección de datos personales ha conocido (y seguirá conociendo) de importantes desafíos jurídicos que exigen de su adaptación.
 
 El advenimiento de las tecnologías de la información y comunicación (TICs), la masificación de las mismas y el empleo de nuevas técnicas, tales como el _big data_, la inteligencia artificial, la personalización de contenidos, el _tracking_ y la elaboración de perfiles han llevado a los legisladores de todo el mundo a estar en constante revisión de los distintos instrumentos y leyes de protección de datos personales.
+
+    {{< shortcode.html >}}
+      <p class="speshal-fancy-custom">
+        This is <strong>raw HTML</strong>, inside Markdown.
+      </p>
+    {{< /rawhtml >}}
