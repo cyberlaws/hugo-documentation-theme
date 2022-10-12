@@ -1,10 +1,10 @@
 +++
 date = 2019-05-04T23:00:00Z
 draft = true
-linktitle = "Buscadores"
+linktitle = "Correo electrónico"
 title = "Correo electrónico"
 type = "book"
-weight = "3"
+weight = "4"
 
 +++
 ## Goals
