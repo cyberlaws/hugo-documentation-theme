@@ -1,10 +1,10 @@
 +++
 date = 2019-05-04T23:00:00Z
 draft = true
-linktitle = "VPN"
+linktitle = "Buscadores"
 title = "Buscadores"
 type = "book"
-weight = "2"
+weight = "3"
 
 +++
 ## Goals
