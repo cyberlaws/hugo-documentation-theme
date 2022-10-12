@@ -1,6 +1,5 @@
 +++
 date = 2019-05-05T23:00:00Z
-draft = true
 linktitle = "Curso básico"
 title = "Curso básico"
 type = "book"
