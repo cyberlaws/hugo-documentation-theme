@@ -1,5 +1,5 @@
 +++
-date = 2019-05-04T23:01:00Z
+date = 2019-05-04T22:01:00Z
 linktitle = "Aspectos básicos"
 title = "Aspectos básicos"
 type = "book"
