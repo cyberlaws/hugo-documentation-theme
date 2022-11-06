@@ -20,4 +20,4 @@ Debido a los continuos avances tecnológicos y sociales, el derecho a la protecc
 
 El advenimiento de las tecnologías de la información y comunicación (TICs), la masificación de las mismas y el empleo de nuevas técnicas, tales como el _big data_, la inteligencia artificial, la personalización de contenidos, el _tracking_ y la elaboración de perfiles han llevado a los legisladores de todo el mundo a estar en constante revisión de los distintos instrumentos y leyes de protección de datos personales.
 
-    {{< time-es >}}
+    {{< timeline-es >}}
